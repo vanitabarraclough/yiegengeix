@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaseesux.socialimpactlab.org/sitemap.xml
